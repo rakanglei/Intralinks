@@ -1,3 +1,7 @@
+# This code is a test version for Company to find top important clients
+# Implemented PageRank using pySpark
+
+
 ###########################################
 # Use graph to score 3rd parties          #
 # input: user/exchange/fact parquet data  #
